@@ -33,11 +33,14 @@
       <change afterPath="$PROJECT_DIR$/learning_log/users/models.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/learning_log/users/templates/registration/log_out.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/learning_log/users/templates/registration/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning_log/users/templates/registration/register.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/learning_log/users/tests.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/learning_log/users/urls.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/learning_log/users/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning_log/learning_logs/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/learning_log/learning_logs/templates/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning_log/users/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/learning_log/users/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning_log/users/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/learning_log/users/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,6 +109,19 @@
     <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit which pycharm" />
     <option name="LAST_COMMIT_MESSAGE" value="commit which pycharm" />
@@ -115,22 +131,22 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="600" y="147" width="777" height="811" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1580062668906" />
-    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1579127444344">
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1580324381807">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1579127444344" />
-    <state x="482" y="187" key="SettingsEditor" timestamp="1580062115709">
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1580324381807" />
+    <state x="482" y="187" key="SettingsEditor" timestamp="1580759582695">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="482" y="187" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1580062115709" />
-    <state x="653" y="462" width="688" height="343" key="com.intellij.ide.util.TipDialog" timestamp="1580061224939">
+    <state x="482" y="187" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1580759582695" />
+    <state x="653" y="462" width="688" height="343" key="com.intellij.ide.util.TipDialog" timestamp="1581178299380">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="653" y="462" width="688" height="343" key="com.intellij.ide.util.TipDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1580061224939" />
-    <state x="756" y="244" width="465" height="617" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1579120847021">
+    <state x="653" y="462" width="688" height="343" key="com.intellij.ide.util.TipDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1581178299380" />
+    <state x="756" y="244" width="465" height="617" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1580760362064">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="756" y="244" width="465" height="617" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/67.27.1853.1053@67.27.1853.1053" timestamp="1579120847021" />
+    <state x="756" y="244" width="465" height="617" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/67.27.1853.1053@67.27.1853.1053" timestamp="1580760362064" />
     <state x="761" y="472" width="454" height="160" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1580062549611">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
