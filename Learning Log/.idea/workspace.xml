@@ -15,6 +15,7 @@
       <change afterPath="$PROJECT_DIR$/learning_log/learning_logs/migrations/0002_entry.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/learning_log/learning_logs/migrations/__init__.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/learning_log/learning_logs/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning_log/learning_logs/static/style.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/learning_log/learning_logs/templates/base.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/learning_log/learning_logs/templates/edit_entry.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/learning_log/learning_logs/templates/index.html" afterDir="false" />
@@ -38,9 +39,6 @@
       <change afterPath="$PROJECT_DIR$/learning_log/users/urls.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/learning_log/users/views.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learning_log/learning_logs/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/learning_log/learning_logs/templates/base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learning_log/users/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/learning_log/users/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learning_log/users/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/learning_log/users/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +66,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/bookmarks" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -131,22 +129,22 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="600" y="147" width="777" height="811" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1580062668906" />
-    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1580324381807">
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1581709085014">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1580324381807" />
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1581709085014" />
     <state x="482" y="187" key="SettingsEditor" timestamp="1580759582695">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="482" y="187" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1580759582695" />
-    <state x="653" y="462" width="688" height="343" key="com.intellij.ide.util.TipDialog" timestamp="1581178299380">
+    <state x="653" y="462" width="688" height="343" key="com.intellij.ide.util.TipDialog" timestamp="1582371235240">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="653" y="462" width="688" height="343" key="com.intellij.ide.util.TipDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1581178299380" />
-    <state x="756" y="244" width="465" height="617" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1580760362064">
+    <state x="653" y="462" width="688" height="343" key="com.intellij.ide.util.TipDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1582371235240" />
+    <state x="756" y="244" width="465" height="617" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1581878442139">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="756" y="244" width="465" height="617" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/67.27.1853.1053@67.27.1853.1053" timestamp="1580760362064" />
+    <state x="756" y="244" width="465" height="617" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/67.27.1853.1053@67.27.1853.1053" timestamp="1581878442139" />
     <state x="761" y="472" width="454" height="160" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1580062549611">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
