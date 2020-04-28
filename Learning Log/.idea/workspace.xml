@@ -2,42 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6ebc58da-4348-48d6-8135-9011baa9df99" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/learning_log/db.sqlite3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning_log/learning_log/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning_log/learning_log/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning_log/learning_log/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning_log/learning_log/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning_log/learning_logs/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning_log/learning_logs/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning_log/learning_logs/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning_log/learning_logs/forms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning_log/learning_logs/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning_log/learning_logs/migrations/0002_entry.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning_log/learning_logs/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning_log/learning_logs/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning_log/learning_logs/static/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning_log/learning_logs/templates/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning_log/learning_logs/templates/edit_entry.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning_log/learning_logs/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning_log/learning_logs/templates/new_entry.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning_log/learning_logs/templates/new_topic.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning_log/learning_logs/templates/topic.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning_log/learning_logs/templates/topics.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning_log/learning_logs/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning_log/learning_logs/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning_log/learning_logs/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning_log/manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning_log/users/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning_log/users/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning_log/users/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning_log/users/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning_log/users/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning_log/users/templates/registration/log_out.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning_log/users/templates/registration/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning_log/users/templates/registration/register.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning_log/users/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning_log/users/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning_log/users/views.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,43 +12,31 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="HTML File" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/learning_log" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1W4qj6HagktsT4HI1Y8D6VYwo3i" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/bookmarks" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/learning_log/users/templates/registration" />
     </key>
-  </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -112,13 +64,12 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit which pycharm" />
@@ -133,14 +84,14 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1581709085014" />
-    <state x="482" y="187" key="SettingsEditor" timestamp="1580759582695">
+    <state x="482" y="187" key="SettingsEditor" timestamp="1585809547687">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="482" y="187" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1580759582695" />
-    <state x="653" y="462" width="688" height="343" key="com.intellij.ide.util.TipDialog" timestamp="1582371235240">
+    <state x="482" y="187" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1585809547687" />
+    <state x="653" y="462" width="688" height="343" key="com.intellij.ide.util.TipDialog" timestamp="1585809485551">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="653" y="462" width="688" height="343" key="com.intellij.ide.util.TipDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1582371235240" />
+    <state x="653" y="462" width="688" height="343" key="com.intellij.ide.util.TipDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1585809485551" />
     <state x="756" y="244" width="465" height="617" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1581878442139">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
